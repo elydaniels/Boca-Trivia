@@ -1,0 +1,23 @@
+{
+  "questions":
+    {
+    "questions": "the capital of Florida is Miami",
+    "answer": false
+    },
+
+    {
+      "questions": "the capital of California is Sacramento",
+      "answer": true
+          },
+
+    
+     {
+      "questions": "the capital of Florida is Miami",
+      "answer": false
+      },
+
+          {
+          "questions": "the capital of Florida is Miami",
+          "answer": false
+          },
+}
