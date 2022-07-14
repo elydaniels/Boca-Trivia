@@ -12,5 +12,5 @@ A minigame where you answer trivia questions
 Here is a [live demo](https://ed-triviaboca.web.app/) of my project.
 
 ## Screenshoot
-![Screenshoot of the project](https://github.com/elydaniels/shopify-landing-page-ccs/blob/8afa64e255a26c419cd82bc960fb87a80555214c/photos/shopify-pictures/shopifylandingpage-screenshot1.png)
+![Screenshoot of the project]([https://github.com/elydaniels/Boca-Trivia/blob/be62fcf25cc250cf2eeca09b14e4344fda881fb5/Trivia%20Preview.png])
 
